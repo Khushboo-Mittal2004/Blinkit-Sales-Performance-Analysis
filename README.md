@@ -92,7 +92,7 @@ This dashboard helps:
 
 📸 Dashboard Preview
 
-![Uploading Blinkit Analysis Dashboard.png…]()
+Blinkit Analysis Dashboard.png
 
 
 📥 How to Use
