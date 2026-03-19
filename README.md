@@ -29,25 +29,25 @@ Reflects the average customer satisfaction rating for sold items.
 
 The dashboard consists of multiple interactive charts and visuals:
 
-Total Sales by Fat Content
+Total Sales by Fat Content:
 Analyzes how product fat content impacts sales performance.
 
-Total Sales by Item Type
+Total Sales by Item Type:
 Identifies top-performing product categories.
 
-Fat Content by Outlet for Total Sales
+Fat Content by Outlet for Total Sales:
 Compares sales distribution based on fat content across different outlets.
 
-Total Sales by Outlet Establishment Year
+Total Sales by Outlet Establishment Year:
 Tracks sales trends based on outlet age and establishment timeline.
 
-Sales by Outlet Size
+Sales by Outlet Size:
 Evaluates performance across small, medium, and large outlets.
 
-Sales by Outlet Location
+Sales by Outlet Location:
 Highlights geographic sales distribution and high-performing regions.
 
-All Metrics by Outlet Type
+All Metrics by Outlet Type:
 Provides a consolidated view of KPIs segmented by outlet types (e.g., grocery stores, supermarkets).
 
 🛠️ Tools & Technologies Used
@@ -61,35 +61,24 @@ Data Analysis Techniques – Aggregation, KPI calculation, trend analysis
 📂 Dataset
 
 The dataset used in this project includes detailed information about:
-
 Product categories and attributes (e.g., fat content, item type)
-
 Sales transactions and revenue
-
 Outlet characteristics (size, location, establishment year)
-
 Customer ratings
 
 💡 Key Insights
 
 Identified top-performing item categories contributing to maximum revenue
-
 Analyzed impact of outlet size and location on sales performance
-
 Discovered patterns in customer preferences based on product attributes
-
 Evaluated outlet efficiency and growth trends over time
 
 🎯 Business Value
 
 This dashboard helps:
-
 Improve inventory and product strategy
-
 Optimize outlet performance
-
 Enhance customer satisfaction
-
 Support strategic business decisions
 
 📸 Dashboard Preview
@@ -98,15 +87,11 @@ Support strategic business decisions
 📥 How to Use
 
 Download the .pbix file from this repository
-
 Open it in Power BI Desktop
-
 Explore interactive dashboards and filters
 
 🔗 Future Enhancements
 
 Integration with real-time data sources
-
 Advanced forecasting using machine learning
-
 Customer segmentation analysis
