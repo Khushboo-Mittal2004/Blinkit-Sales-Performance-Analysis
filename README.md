@@ -90,10 +90,6 @@ This dashboard helps:
 
 4. Support strategic business decisions
 
-📸 Dashboard Preview
-
-Blinkit Analysis Dashboard.png
-
 
 📥 How to Use
 
